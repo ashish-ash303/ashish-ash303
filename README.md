@@ -1,2 +1,7 @@
-- 👋 Hi, I’m Ashish Srivastav and I’m currently Pursuing my bachleor degree in Computer Application from Indira Gandhi National Open University. I Have Keen Interset in Data Science and love to build models around  Machine Learning and Deep Learning and . I Also Knowledege of MySQL,Pyhton,Statistics,DBMS.
+- I am Ashish Kumar Completed my Bachelors in Computer Application from Indira Gandhi National Open University. I have keen interest in Python and Data Science,I like do exploratory data Analysis and to Build Machine Learning Models.
+I am Passionate and aspiring machine learning engineer who is keen to contribute to a cause .
+I'm Young,energetic,passionate,geeky individual Who want to learn and explore more.
+
+Skills:
+Python ,C++,MySQL,,Statistics,Machine Learning,Exploratory Data Analysis,Data Structure ans Algorithm,Git and Github
 
